@@ -1,1 +1,0 @@
-Fitxer local per a fer upload al server
